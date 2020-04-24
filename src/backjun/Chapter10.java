@@ -3,7 +3,6 @@ package backjun;
 import java.util.Scanner;
 
 public class Chapter10 {
-
 	
 	public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
@@ -30,4 +29,4 @@ public class Chapter10 {
     }
  
 }
-}
+
