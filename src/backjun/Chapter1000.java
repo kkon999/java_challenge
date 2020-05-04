@@ -2,7 +2,7 @@ package backjun;
 
 import java.util.Scanner;
 
-public class Chapter04_01 {
+public class Chapter1000 {
 	public static void main(String[] args) {
 		
 		// Scanner 메소드를 사용하여 데이터를 사용자로부터 입력 받아 인스턴스 sc에 저장
