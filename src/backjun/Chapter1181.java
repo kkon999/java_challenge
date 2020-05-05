@@ -6,7 +6,7 @@ import java.util.Scanner;
 import java.util.Set;
 import java.util.TreeSet;
 
-public class Chapter07 {
+public class Chapter1181 {
 	
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
