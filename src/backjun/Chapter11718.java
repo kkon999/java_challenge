@@ -2,7 +2,7 @@ package backjun;
 
 import java.util.Scanner;
 
-public class Chapter05 {
+public class Chapter11718 {
 
 	public static void main(String[] args) {
 		
