@@ -2,7 +2,7 @@ package backjun;
 
 import java.util.Arrays;
 
-public class Chapter11_02 {
+public class Chapter2357_02 {
 	
 	public static void main(String[] args) {
 		//최대값 최소값을 구할 int배열
